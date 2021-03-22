@@ -1,0 +1,22 @@
+﻿1. Tampilkan banyaknya matakuliah yang telah diambil mahasiswa. kelompokkan berdasarkan nama mata kuliahnya.
+(nama matakuliah, banyak matakuliah)
+
+
+
+2. Tampilkan nama-nama jurusan dan berapa banyak dosen yang ada di masing-masing jurusan.
+(nama jurusan, banyak dosen)
+
+
+
+3. Tampilkan berapa banyak nilai A, B, C, D, dan E berdasarkan KRS. Urutkan hasil query tersebut berdasarkan nilai.
+(nilai, banyaknya)
+
+
+
+4. Tunjukkan berapa banyak nilai A dari dosen yang mengajar di jurusan ‘Teknik Informatika’.
+(banyak nilai)
+
+
+
+5. Tunjukkan berapa banyak mahasiswa dan berapa banyak mahasiswi di dalam basis data ini. Kelompokkan berdasarkan jenis kelamin.
+(jenis kelamin, banyaknya)

@@ -1,0 +1,1 @@
+<a class="navbar-brand" href="http://fasadistro.tk/fasadesign/" target="_blank"><font color="white">APLIKASI BERBAGI ILMU</font></a>
